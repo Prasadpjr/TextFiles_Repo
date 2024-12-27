@@ -1,1 +1,1 @@
-Text File "a"---> Hello All changed by dev 1 --changed by dev 1 locally and not pushed
+Text File "a"---> Hello All changed by dev 1 --changed by dev 2 in same file and pushed
